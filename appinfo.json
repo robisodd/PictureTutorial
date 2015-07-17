@@ -1,0 +1,74 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "robisodd",
+    "longName": "Picture Tutorial",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/dog.png",
+                "name": "DOG",
+                "type": "png"
+            },
+            {
+                "file": "images/Font8.png",
+                "name": "FONT8",
+                "type": "png"
+            },
+            {
+                "file": "images/TEST-64-8b.png",
+                "name": "TEST_64_8B",
+                "type": "png"
+            },
+            {
+                "file": "images/TEST-64-4b.png",
+                "name": "TEST_64_4B",
+                "type": "png"
+            },
+            {
+                "file": "images/TEST-64-2b.png",
+                "name": "TEST_64_2B",
+                "type": "png"
+            },
+            {
+                "file": "images/TEST-64-1b.png",
+                "name": "TEST_64_1B",
+                "type": "png"
+            },
+            {
+                "file": "images/TEST-32-8b.png",
+                "name": "TEST_32_8B",
+                "type": "png"
+            },
+            {
+                "file": "images/TEST-32-4b.png",
+                "name": "TEST_32_4B",
+                "type": "png"
+            },
+            {
+                "file": "images/TEST-32-2b.png",
+                "name": "TEST_32_2B",
+                "type": "png"
+            },
+            {
+                "file": "images/TEST-32-1b.png",
+                "name": "TEST_32_1B",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Picture Tutorial",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "5e41c8f3-cb4f-4083-a742-b23c38eee70a",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
